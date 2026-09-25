@@ -30,3 +30,14 @@ npm run dev
 ## 🔗 后端仓库
 
 [netpilot-backend](https://github.com/tzx04/netpilot-backend)
+
+## 📷 项目截图
+
+### 首页 - 设备管理与 AI 助手
+![首页](home.png)
+
+### 监控大屏 - CPU/内存/带宽趋势
+![监控大屏](dashboard.png)
+
+### AI 智能诊断报告
+![AI诊断](ai-diagnose.png)
